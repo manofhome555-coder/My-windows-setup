@@ -3,3 +3,6 @@ Allow Powershell to use profiles : Set-ExecutionPolicy RemoteSigned , Creating p
 
 03/23/2026 
 xbox delete : Get-AppxPackage *XboxGamingOverlay* | Remove-AppxPackage
+
+03/26/2026
+LocalSend , Roblox(microsoft store) , 
