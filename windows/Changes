@@ -4,4 +4,5 @@ Allow Powershell to use profiles : Set-ExecutionPolicy RemoteSigned , Creating p
 03/23/2026 
 xbox delete : Get-AppxPackage *XboxGamingOverlay* | Remove-AppxPackage
 
-
+03/29/2026 
+disabling Microsoft Edge Update Service (edgeupdatem) from auto start in services , 
